@@ -1,0 +1,3 @@
+O QUE APRENDI?
+
+Algorítmos; Lógica de programação; Sintaxe; Linguagem de programação; Ambiente de Desenvolvimento; Front-end vs Back-end; HTTP; URL; HTML5; CSS3; JavaScript; Criando server localhost; Dependências de Desenvolvimento;
