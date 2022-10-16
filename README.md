@@ -46,10 +46,12 @@ Algorítmos; Lógica de programação; Sintaxe; Linguagem de programação; Ambi
 
 
 ## Dependencies
-- 
+- express
+- nodemon
 
 ## Implantação em produção
-- Netlify
+- Netlify | Front-end
+- Localhost | Back-end
 
 # Como executar o projeto
 
@@ -58,16 +60,16 @@ Pré-requisitos mínimos: node v12.18.3 | nmp v6.14.16 | yarn v1.22.4
 
 ```zsh
 # clonar repositório
-git clone https://github.com/CrisDev83/projetoProffy.git
+git clone https://github.com/CrisDev83/projetoEcoleta.git
 
-# entrar na pasta do projeto projetoProffy
-cd projetoProffy
+# entrar na pasta do projeto projetoEcoleta
+cd projetoEcoleta
 
 # instalar dependências
-yarn install | npm install
+npm install
 
 # executar o projeto
-yarn start | npm start
+npm start
 ```
 
 # Autor
