@@ -1,30 +1,30 @@
 # projetoEcoleta
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoProffy/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoEcoleta/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-https://gorgeous-sfogliatella-6ecdaf.netlify.app/
+https://gleaming-brigadeiros-fda93f.netlify.app/
 
-Projeto desenvolvido no treinamento NLW#2 da Rocketseat. É Uma plataforma de estudos online, que conecta alunos e professores. Para informações mais técnicas, acesse o Github através do botão abaixo.
+Projeto desenvolvido no primeiro (Next Level Week) NLW#1 da Rocketseat, que é atualmente a maior escola de tecnologia online do país. Esse projeto é um Marketplace de Coleta de Resíduos. Onde você encontrará empresas de reciclagem para descartar qualquer tipo de material. Para informações mais técnicas, acesse o Github através do botão abaixo.
 
-Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
+Tudo isso usando os conceitos de HTML, CSS e JavaScript.
 
 ## Layout Desktop
 <div align="center"> 
-    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffy.png" />
-    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffylist.png" width="500"/>
-    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffycadastro.png" width="500"/>
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/ecoleta.png" />
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/eco2.png" width="500"/>
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/eco3.png" width="500"/>
 </div>
 
 ## Layout Responsivo
-![mobile1](https://github.com/CrisDev83/assets-projects/blob/master/proffymobile.png)
-![mobile2](https://github.com/CrisDev83/assets-projects/blob/master/pm2.png)
-![mobile3](https://github.com/CrisDev83/assets-projects/blob/master/pm3.png)
+![mobile1](https://github.com/CrisDev83/assets-projects/blob/master/ecohomemobile.png)
+![mobile2](https://github.com/CrisDev83/assets-projects/blob/master/ecocadmobile.png)
+![mobile3](https://github.com/CrisDev83/assets-projects/blob/master/ecolistmob.png)
 
 ## O Que aprendi?
 
-Criar um projeto React com Yarn; Limpar extrutura do projeto; gitignore; package.json; Client Side; index.html / div root; React DOM; JSX; Componentes; Propriedades; Estado; Interface; CSS global; :root; variáveis CSS; Google Fonts / Importando fonts; Unidades de medidas (rem, em, %, xw); Media Query; Aumentando o produtividade com o Emmet; Acessibilidade; Display flex; Navegação entre páginas; BrowserRouter/ Route; Forms.
+Algorítmos; Lógica de programação; Sintaxe; Linguagem de programação; Ambiente de Desenvolvimento; Front-end vs Back-end; HTTP; URL; HTML5; CSS3; JavaScript; Criando server localhost; Dependências de Desenvolvimento.
  
 
 # Tecnologias utilizadas
@@ -33,23 +33,20 @@ Criar um projeto React com Yarn; Limpar extrutura do projeto; gitignore; package
 - Notion
 - Figma
 - NodeJS
-- Yarn
 - Git
 - GitHub
 
 ## Front end
-- HTML \ CSS \ JS
-- JSX
-- ReactJS
-- Typescript
+- HTML5
+- CSS3
+- Javascript
+
+## Back end
+- NodeJs
 
 
 ## Dependencies
-- react
-- react-dom
-- react-scripts
-- typescript
-- react-router-dom
+- 
 
 ## Implantação em produção
 - Netlify
