@@ -56,7 +56,7 @@ Algorítmos; Lógica de programação; Sintaxe; Linguagem de programação; Ambi
 # Como executar o projeto
 
 ## Front end web
-Pré-requisitos mínimos: node v12.18.3 | nmp v6.14.16 | yarn v1.22.4
+Pré-requisitos mínimos: node v12.14.0
 
 ```zsh
 # clonar repositório
